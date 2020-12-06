@@ -35,8 +35,8 @@ img {
 iframe {
     margin: 0 0 0 2;
     overflow:auto;
-    border: 3px solid green;
-    width:365px; 
+    border:.01 3px solid green;
+    width:368px; 
     height:355px; 
 
   }
